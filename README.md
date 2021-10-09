@@ -1,10 +1,16 @@
 # Official Code Release for "CLIP-Adapter: Better Vision-Language Models with Feature Adapters"
 
 # Pipeline of CLIP-Adapter
-<img src="pipeline.jpg" width="300" >
+
+<div align="center">
+  <img src="pipeline.jpg"/>
+</div>
 
 # Results of CLIP-Adapter compared with baseline
-<img src="results.jpg" width="300" >
+
+<div align="center">
+  <img src="results.jpg"/>
+</div>
 
 # Contributor
 Shijie Geng, Renrui Zhang, Peng Gao
