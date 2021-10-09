@@ -7,6 +7,7 @@ CLIP-Adapter is a drop-in module designed for CLIP model on few-shot classficati
 </div>
 
 # Results of CLIP-Adapter compared with baseline
+Comparison with CLIP, Linear-probe CLIP, CoOp on eleven few shot classfication tasks. 
 
 <div align="center">
   <img src="results.jpg"/>
