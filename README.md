@@ -15,3 +15,6 @@ Comparison with CLIP, Linear-probe CLIP, CoOp on eleven few shot classfication t
 
 # Contributor
 Shijie Geng, Renrui Zhang, Peng Gao
+
+# Acknowledegement
+CLIP and CoOp
