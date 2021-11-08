@@ -13,6 +13,9 @@ Comparison with CLIP, Linear-probe CLIP, CoOp on eleven few shot classfication t
   <img src="results.jpg"/>
 </div>
 
+# New version of CLIP-Adpter
+Please check [Tip-Adapter](https://github.com/gaopengcuhk/Tip-Adapter).
+
 # Contributor
 Shijie Geng, Renrui Zhang, Peng Gao
 
