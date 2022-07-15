@@ -1,19 +1,16 @@
-# Official Code Release for "CLIP-Adapter: Better Vision-Language Models with Feature Adapters"
+# CLIP-Adapter: Better Vision-Language Models with Feature Adapters
+Official implementation of ['CLIP-Adapter: Better Vision-Language Models with Feature Adapters'](https://arxiv.org/pdf/2110.04544.pdf).
 
-# Pipeline of CLIP-Adapter
+## Introduction
 CLIP-Adapter is a drop-in module designed for CLIP model on few-shot classfication tasks. CLIP-Adapter can improve the few-shot classfication of CLIP with very simple design.
 <div align="center">
   <img src="pipeline.jpg"/>
 </div>
 
-# Results of CLIP-Adapter compared with baseline
-Comparison with CLIP, Linear-probe CLIP, CoOp on eleven few shot classfication tasks. 
+## Requirements
+## Get Started
 
-<div align="center">
-  <img src="results.jpg"/>
-</div>
-
-# New version of CLIP-Adpter
+## New version of CLIP-Adpter
 Please check [Training-free CLIP-Adapter](https://github.com/gaopengcuhk/Tip-Adapter).
 
 # Contributor
