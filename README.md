@@ -8,9 +8,15 @@ CLIP-Adapter is a drop-in module designed for CLIP on few-shot classfication tas
 </div>
 
 ## Requirements
-## Get Started
+We utilize the code base of [CoOp](https://github.com/KaiyangZhou/Dassl.pytorch). Please follow their instructions to prepare the environment and datasets.
 
-## New version of CLIP-Adpter
+## Get Started
+Put `clip_adapter.py` under `./trainers` and add the related `import` codes. Then follow CoOp's command to run for ImageNet.
+
+The complete codes will be released soon.
+
+
+## New version of CLIP-Adapter
 Please check [Tip-Adapter: Training-free CLIP-Adapter](https://github.com/gaopengcuhk/Tip-Adapter).
 
 ## Contributors
